@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Black Soap",
+    "image": "blackRassoule.jpg",
+    "type": "beauty"
+  },
+  {
+    "id": 2,
+    "name": "Black Caftan",
+    "image": "caftanBlack.jpg",
+    "type": "clothes"
+  },{
+    "id": 3,
+    "name": "Blue Caftan",
+    "image": "caftanBlue.jpg",
+    "type": "clothes"
+  },
+  {
+    "id": 4,
+    "name": "Green Caftan",
+    "image": "caftanGreen.jpg",
+    "type": "clothes"
+  },
+  {
+    "id": 5,
+    "name": "Navy Caftan",
+    "image": "caftanNavy.jpg",
+    "type": "clothes"
+  },
+  {
+    "id": 6,
+    "name": "Red Caftan",
+    "image": "caftanRed.jpg",
+    "type": "clothes"
+  },
+  {
+    "id": 7,
+    "name": "Tajine",
+    "image": "tajine.jpeg",
+    "type": "cookware"
+  },
+  {
+    "id": 8,
+    "name": "Exfoliating Soap",
+    "image": "exfoliationSoap.png",
+    "type": "beauty"
+  },
+  {
+    "id": 9,
+    "name": "Spa Set",
+    "image": "packHimam.jpg",
+    "type": "beauty"
+  },
+  {
+    "id": 10,
+    "name": "Traditional Soap",
+    "image": "tradSoap.jpg",
+    "type": "beauty"
+  }
+]
